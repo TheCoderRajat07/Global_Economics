@@ -92,7 +92,7 @@ We favor public, citable sources with clearly-stated licenses:
 
 MIT License.
 
-Project lead: **Rajat K. Khairnar** — update `CONTACT.md` if you want different contact details.
+Project lead: **Rajat K. Khairnar** 
 
 ---
 
